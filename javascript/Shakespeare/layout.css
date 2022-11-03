@@ -1,0 +1,9 @@
+.btn{
+    background-color: burlywood;
+    color: black;
+    padding: 0.5rem;
+    text-decoration: none;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    display: inline-block;
+}

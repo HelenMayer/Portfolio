@@ -1,0 +1,38 @@
+.main{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    list-style: none;
+    margin-right: 2rem;
+}
+
+img{
+    max-width: 90%;
+    margin-left:  2rem;
+    margin-right: 2rem;
+    border: 0.5rem solid white;
+}
+
+h1{
+    font-style: italic;
+    color: gray;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+#text{
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}

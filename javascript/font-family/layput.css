@@ -1,0 +1,11 @@
+.btn{
+    background-color: rgb(65, 65, 236);
+    color: white;
+    font-size: larger;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+#fontFamily{
+    text-align: right;
+}

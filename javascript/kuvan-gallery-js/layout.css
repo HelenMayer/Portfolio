@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    padding: 2rem;
+}
+
+section{
+    background-color: bisque;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+h1{
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    font-style: italic;
+    color: lightslategray;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+   padding-right: 1rem;
+}
+
+img{
+    margin-top: 2rem;
+    max-width: 100%;
+    border: 1rem solid white;
+}

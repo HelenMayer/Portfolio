@@ -1,0 +1,36 @@
+body{
+   
+    font-size: 62.5%;
+    font-family: Fasthand;
+}
+.container
+{
+    margin: 5rem auto;
+    padding: 0;
+    max-width: 1240px;
+    position: relative;
+}
+.text
+{
+    font-size: 1.5rem;
+    position: absolute;
+    font-weight: 600;
+    color: #CB8B36;
+    padding-left: 1rem;
+}
+.image
+{
+    width: 40%;
+    height: 550px;
+}
+#btn
+{
+    background-color: #6A3F02;
+    border: none;
+    color: white;
+    padding: 0.5rem;
+    display: block;
+    font-size: 1.4rem;
+    font-family: Fasthand;
+    width: 40%;
+}

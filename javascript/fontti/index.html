@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontti</title>
+    <link rel="stylesheet" href="./layout.css">
+</head>
+<body>
+    <h1>Muuta fonttikokoa JavaScriptillä</h1>
+    <p>Huom! Kaikki muutokset tapahtuvat JavaScriptin avulla.</p>
+    <p>Listan fonttikokoa muuttetaan alla olevaa painonappia painamalla. Listan oletusfonttikoko on 16px</p>
+
+    <section id="text">
+        <h2>Tämän listan fonttikoko muuttuu napista painamalla</h2>
+        <ol>
+            <li>Ensimäinen napin painallus muuttaa fonttikokoksi 20px</li>
+            <li>Toinen napin painallus muuttaa fonttikokoksi 24px</li>
+            <li>Kolmas napin painallus muuttaa fonttikokoksi 28px</li>
+            <li>Neljäs napin painallus muuttaa fonttikokoksi 32px</li>
+            <li>Viides napin painallus palauttaa fonttikokoon 16px</li>
+        </ol>
+        <p class="minifontti" id="koko">Fonttikoko nyt: 16px</p>
+    </section>
+    <button  class="btn" onclick="ButtonClick()"> <p> Fontin koko </p></button>
+
+    <script src="./script.js"></script>
+</body>
+</html>
