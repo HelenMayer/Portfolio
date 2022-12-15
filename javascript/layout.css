@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: #69123b;
+    margin-bottom: 1rem;
+}
+
+a:hover{
+    background-color: #69123b;
+    color: white;
+    padding: 0.5rem;
+
+}
