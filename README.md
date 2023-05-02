@@ -1,1 +1,1 @@
-# portfolio on collegessa
+# Education portfolio (HTML+css+js) for college
